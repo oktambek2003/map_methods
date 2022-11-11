@@ -9,5 +9,5 @@ Map func(Map data, int cost) {
 }
 
 void main() {
-  print(func({'name': 'Mustang', 'color': 'silver', 'price': '50000'},80000));
+  print(func({'namme': 'Mustang', 'color': 'silver', 'price': '50000'},80000));
 }

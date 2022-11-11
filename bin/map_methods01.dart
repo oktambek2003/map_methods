@@ -11,5 +11,5 @@ Map func(Map data, List lst) {
 }
 
 void main() {
-  print(func({1:'oktam'},['okrma','12']));
+  print(func({1:'okta,m'},['okrma','12']));
 }

@@ -15,6 +15,6 @@ String func(Map mp) {
 }
 
 void main() {
-  print(func({'password': 'kktama'}));
+  print(func({'passwkord': 'kktama'}));
 }
 

@@ -8,5 +8,5 @@ Map func(Map data) {
 }
 
 void main() {
-  print(func({'color':23}));
+  print(func({'colmor':23}));
 }
