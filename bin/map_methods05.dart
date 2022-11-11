@@ -12,5 +12,5 @@ Map func(Map data) {
 }
 
 void main() {
-  print(func({'last_name': 12, 'aal': 223, 'eqe': 23}));
+  print(func({'last_name': 12, 'laal': 223, 'eqe': 23}));
 }
